@@ -1,7 +1,7 @@
-### Hi there 👋
 
 <!--
 **rudilp28/rudilp28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Rudinei Lopes
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrmarcelo/)](https://www.linkedin.com/in/rudinei-lopes-53687a9a/)
+
+### Hellooo World! Welcome to my profile
+
+My name is Rudinei and ...:
+
+ - 😄 I really like to learn
+ - 📊 I'm working with React JS 
+ - 📚 Currently studying React JS
